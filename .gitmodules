@@ -1,0 +1,9 @@
+[submodule "nexbyte"]
+	path = nexbyte
+	url = https://github.com/niranjan8088/ne.git
+	branch = nexbyte
+
+[submodule "ne/nexbyte"]
+	path = ne/nexbyte
+	url = https://github.com/niranjan8088/ne.git
+	branch = nexbyte
