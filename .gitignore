@@ -1,0 +1,6 @@
+*.zip
+*.tar.gz
+scratch/
+test.png
+.DS_Store
+Thumbs.db
